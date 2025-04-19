@@ -3,6 +3,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soeunl&layout=compact&theme=tokyonight)
 
 <h1>🌱Soeunl Skills🌱</h1>
+<h2>📖강사 GitHub 계정📖</h2>
+<p>- https://github.com/Lsoeun</p>
 
 <h2>🛠Front DEV</h2>
 <p>
